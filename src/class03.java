@@ -6,6 +6,7 @@ public class class03 {
 
 		System.out.println("Hey this is a git class.");
 		System.out.println("Made change in my project");
+		System.out.println("This is a new version");
 	}
 	
 
